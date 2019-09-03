@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+    color:#fff;
+    background: bisque;
+}
+.hello{
+    width: 500px;
+    height:100vh;
+    box-shadow: 5px 5px 5px 5px #96ae3c;
+}
+img{
+    width:300px;
+}
