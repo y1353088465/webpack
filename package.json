@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pro-build": "webpack --config webpack.config.js",
-    "dev-build": "webpack --config webpack.dev.js",
+    "dev-build": "webpack --config webpack.config.js",
+    "pro-build": "webpack --config webpack.pro.js",
     "watch": "webpack --watch",
     "dev": "webpack-dev-server"
   },

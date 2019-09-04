@@ -11,7 +11,7 @@ function component() {
     element.classList.add('hello');
 
     element.onclick = changeBodyBg;
-    // 图像添加。
+    // // 图像添加。
     var myIcon = new Image();
     myIcon.src = MissYang;
 
